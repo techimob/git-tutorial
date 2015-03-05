@@ -1,2 +1,2 @@
 # git tutorial
-  - feature-A
+  - feature-a
